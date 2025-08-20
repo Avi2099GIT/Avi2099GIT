@@ -66,6 +66,8 @@
   <a href="https://learn.microsoft.com/en-us/users/avinashkarri-0414/">
     <img src="https://azure.microsoft.com/svghandler/azure-icon/?" width="200px" alt="Microsoft Azure Skills"/>
   </a>
+  <br/><br/>
+  🔗 Click the icons above to view my **Google Cloud** & **Microsoft Azure** skills
 </p>
 
 ---
