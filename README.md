@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Avinash+Karri;AI+%26+Automation+Engineer;Python+%7C+FastAPI+%7C+Postgres;Generative+AI+%7C+Cloud+%7C+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Avinash!!;AI+%26+Automation+Engineer;Python+%7C+FastAPI+%7C+Postgres;Generative+AI+%7C+LLM+%7C+Automation;GCP+%7C+Azure;Docker+%7C+Kubernetes" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -23,23 +23,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Together%20AI-FF6F00?style=for-the-badge&logo=aiqfome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- [AI DevOps Log Analyzer](https://github.com/yourusername/devops-log-analyzer)  
+- [AI DevOps Log Analyzer](https://github.com/Avi2099GIT/ai-devops-tool)  
   🔹 AI-powered log analysis tool with anomaly detection, CI/CD integration, and Streamlit dashboard.  
 
-- [AI Code Auditing & Security Scanner](https://github.com/yourusername/ai-code-audit)  
+- [AI Code Auditing & Security Scanner](https://github.com/Avi2099GIT/SecUrAI)  
   🔹 Security scanning platform using LLM-powered analysis, GitHub Actions automation, and Firestore integration.  
 
-- [Automation Tool for Engineering Workflows](https://github.com/yourusername/alstom-automation)  
-  🔹 Custom Python + FastAPI solution eliminating 100% manual intervention in engineering workflows.  
-
 - [AI-Powered Document Search Platform](https://github.com/yourusername/doc-search-ai)  
+  🔹 In progress*
   🔹 Full-text enterprise document search with AI-powered contextual results.  
 
 ---
@@ -47,8 +53,8 @@
 ## ☁️ My Google Cloud Skills
 
 <p align="center">
-  <a href="https://www.cloudskillsboost.google/public_profiles/yourprofilelink">
-    <img src="https://www.gstatic.com/devrel-devsite/prod/vf95b1b38e9e275cfb8cf2b49f6927e3c8c91d4520f239008aa17417c62e3ecdf/cloud/images/cloud-logo.svg" width="120px" alt="Google Cloud Skills"/>
+  <a href="https://www.cloudskillsboost.google/public_profiles/3d9b435f-db59-420c-9b2f-963f28975d5e">
+    <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/cloud-skills-boost-animation.max-1300x1300.gif" width="400px" alt="Google Cloud Skills Animation"/>
   </a>
 </p>
 
@@ -58,4 +64,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinashkarri/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
-*“Driven by automation, powered by AI.”*
+<p align="center"><em>"Code is not just about solving problems—it’s about creating intelligent systems that shape the future."</em></p>
