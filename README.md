@@ -50,18 +50,52 @@
 
 ---
 
-## ☁️ My Google Cloud Skills
+## ☁️ My Cloud Skills
 
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/3d9b435f-db59-420c-9b2f-963f28975d5e">
     <img src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" width="500px" alt="Google Cloud Skills Banner"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/users/avinashkarri-0414/">
+    <img src="https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png" width="250px" alt="Microsoft Learn Profile"/>
+  </a>
 </p>
 
 ---
 
+<!-- ## 🏅 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
+</p> -->
+
+
+<!-- ## 📈 My Tech Journey
+
+- 🌱 2020 → Started with Python & Web Development  
+- 🐍 2021 → Built automation tools in Python & Selenium  
+- 🤖 2022 → Explored AI/ML, PyTorch, OpenAI API  
+- ☁️ 2023 → Cloud skills (Google Cloud, Azure), containerization with Docker  
+- 🚀 2024 → AI-driven DevOps & enterprise automation at Alstom   -->
+
+
+<!-- 
+## 📊 GitHub Stats
+![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+--- -->
+
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinashkarri/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/avinashkarri/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:avinashkarri03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
+</p>
 
 <p align="center"><em>"Code is not just about solving problems—it’s about creating intelligent systems that shape the future."</em></p>
