@@ -101,7 +101,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:avinashkarri03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
+  <a href="https://github.com/Avi2099GIT"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
 </p>
 
 <p align="center"><em>"Code is not just about solving problems—it’s about creating intelligent systems that shape the future."</em></p>
