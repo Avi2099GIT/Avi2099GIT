@@ -58,7 +58,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/users/avinashkarri-0414/">
-    <img src="https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png" width="250px" alt="Microsoft Learn Profile"/>
+    <img src="https://azure.microsoft.com/svghandler/azure-icon/?" width="200px" alt="Microsoft Azure Skills"/>
   </a>
 </p>
 
