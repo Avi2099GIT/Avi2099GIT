@@ -1,18 +1,30 @@
-# Hi, I'm Avinash 👋
-🚀 Associate System Application Design Engineer @ Alstom | AI & Automation Engineer  
-
-💡 Passionate about building AI-driven tools, automation systems, and scalable software solutions.  
-🌐 Skilled in Python, FastAPI, PostgreSQL, Docker, and AI/ML (LLMs, Generative AI).  
-📌 Interested in AI, DevOps, Cloud Platforms, and Full-Stack Development.  
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Avinash+Karri;AI+%26+Automation+Engineer;Python+%7C+FastAPI+%7C+Postgres;Generative+AI+%7C+Cloud+%7C+Automation" alt="Typing SVG" />
+  </a>
+</h1>
 
 ---
 
 ## 👨‍💻 About Me
 - 💼 Working as **Associate System Application Design Engineer at Alstom**  
-- 🔭 Currently building **automation tools & AI-driven solutions**  
+- 🔭 Building **automation tools & AI-driven solutions**  
 - 🌱 Learning more about **MLOps, Cloud Infrastructure, and Full-Stack AI Applications**  
 - 💬 Ask me about **Python, FastAPI, AI/ML, Automation, and Cloud Deployment**  
 - ⚡ Fun fact: I love blending **AI, automation, and software development** to solve real-world problems  
+
+---
+
+## 🛠 Skills
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+</p>
 
 ---
 
@@ -32,13 +44,18 @@
 
 ---
 
-## 📊 GitHub Stats
-![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## ☁️ My Google Cloud Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/yourprofilelink">
+    <img src="https://www.gstatic.com/devrel-devsite/prod/vf95b1b38e9e275cfb8cf2b49f6927e3c8c91d4520f239008aa17417c62e3ecdf/cloud/images/cloud-logo.svg" width="120px" alt="Google Cloud Skills"/>
+  </a>
+</p>
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinashkarri/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avi2099GIT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinashkarri/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+*“Driven by automation, powered by AI.”*
