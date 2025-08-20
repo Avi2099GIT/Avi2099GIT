@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/3d9b435f-db59-420c-9b2f-963f28975d5e">
-    <img src="https://miro.medium.com/v2/resize:fit:1200/1*qfW2-6Tn6r4l92R7aS7Eqg.png" width="500px" alt="Google Cloud Skills Banner"/>
+    <img src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" width="500px" alt="Google Cloud Skills Banner"/>
   </a>
 </p>
 
