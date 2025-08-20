@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/3d9b435f-db59-420c-9b2f-963f28975d5e">
-    <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/cloud-skills-boost-animation.max-1300x1300.gif" width="400px" alt="Google Cloud Skills Animation"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1200/1*qfW2-6Tn6r4l92R7aS7Eqg.png" width="500px" alt="Google Cloud Skills Banner"/>
   </a>
 </p>
 
