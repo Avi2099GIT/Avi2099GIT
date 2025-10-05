@@ -50,7 +50,7 @@
 - [AI Code Auditing & Security Scanner](https://github.com/Avi2099GIT/SecUrAI)  
   🔹 Security scanning platform using LLM-powered analysis, GitHub Actions automation, and Firestore integration.  
 
-- [AI-Powered Document Search Platform](https://github.com/yourusername/doc-search-ai)  
+- [AI-Powered Document Search Platform](https://github.com/Avi2099GIT/DocSemanticSearch)  
   🔹 In progress*
   🔹 Full-text enterprise document search with AI-powered contextual results.  
 
